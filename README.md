@@ -5,7 +5,8 @@ This project aims to develop an intelligent weather detection system using Deep 
 
 The model is trained on a labeled dataset of weather images such as sunny, cloudy, rainy, snowy, etc., and uses deep CNN architecture to learn the visual patterns associated with each weather type. The system can then accurately detect the current weather by analyzing a single image captured by a camera or drone.
 
-Importance of the Project:
+# Importance of the Project:
+
 📸 Real-time Classification: Automates weather detection from visual data without manual observation.
 
 🌾 Useful in Agriculture: Helps farmers plan irrigation and harvesting based on current weather condition detection.
@@ -17,7 +18,8 @@ Importance of the Project:
 📡 Smart Systems Integration: Can be integrated with IoT-based weather monitoring systems for smarter infrastructure.
 
 
-Technologies Used:
+# Technologies Used:
+
 🧠 Deep Learning: For model training and feature extraction from images.
 
 📷 Convolutional Neural Networks (CNN): For accurate image-based classification.
@@ -33,7 +35,8 @@ Technologies Used:
 🧪 Jupyter Notebook / Google Colab: For model development and experimentation.
 
 
-Advantages of This Project:
+# Advantages of This Project:
+
 ✅ Accurate classification of weather conditions from images.
 
 ⚡ Real-time weather detection with minimal latency.
